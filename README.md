@@ -1,2 +1,0 @@
-# minecraft
-faz o download
